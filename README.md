@@ -49,7 +49,7 @@ The following three PDF files were used for practice:
 
 📸 Screenshots / Evidence
 
-Screenshots of the practical work will be added below as evidence.
+Screenshots of the practical work will be added as evidence.
 
 - John the Ripper
 - Johny GUI
