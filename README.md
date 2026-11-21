@@ -39,14 +39,6 @@ No.| Activity| Tool
 3| Hash calculation| Networkwalks Hash Calculator
 4| Password cracking of the same PDFs| Networkwalks Password Cracker
 
-📄 PDF Files
-
-The following three PDF files were used for practice:
-
-1. "PDF File 1" (ADD_YOUR_PDF_LINK_HERE)
-2. "PDF File 2" (ADD_YOUR_PDF_LINK_HERE)
-3. "PDF File 3" (ADD_YOUR_PDF_LINK_HERE)
-
 📸 Screenshots / Evidence
 
 Screenshots of the practical work will be added as evidence.
